@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "gki",
-      "repo": "https://android.googlesource.com/kernel/common",
-      "branch": "android12-5.10-2023-11_r6",
+      "repo": "https://github.com/BruhDudeWew/android_kernel_samsung_r0q",
+      "branch": "EXF9",
       "device": "gki",
       "defconfig": "gki_defconfig"
     },
