@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "gki",
+      "name": "r0q",
       "repo": "https://github.com/BruhDudeWew/android_kernel_samsung_r0q",
       "branch": "EXF9",
-      "device": "gki",
-      "defconfig": "gki_defconfig"
+      "device": "r0q",
+      "defconfig": "r0q_defconfig"
     },
     "toolchains": [
       {
