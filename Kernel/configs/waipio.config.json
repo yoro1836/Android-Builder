@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "r0q",
-      "repo": "https://github.com/BruhDudeWew/android_kernel_samsung_r0q",
+      "repo": "https://github.com/yoro1836/android_kernel_samsung_r0q",
       "branch": "EXF9",
       "device": "r0q",
-      "defconfig": "bruh-waipio-gki_defconfig"
+      "defconfig": "yorokeke_defconfig"
     },
     "toolchains": [
       {
