@@ -5,7 +5,7 @@
       "repo": "https://github.com/BruhDudeWew/android_kernel_samsung_r0q",
       "branch": "EXF9",
       "device": "r0q",
-      "defconfig": "waipio-gki_defconfig"
+      "defconfig": "bruh-waipio-gki_defconfig"
     },
     "toolchains": [
       {
@@ -30,6 +30,6 @@
       "release": true
     },
     "enableKernelSU": true,
-    "enableLXC": false
+    "enableLXC": true
   }
 ]
